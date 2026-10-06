@@ -1,4 +1,4 @@
 # web_dev projects
 WebDev Projects challenge
 
-https://github.com/davidolusolaoluwasogo-dev/web_dev.git
+1. Single-Page HTML CV Project: https://github.com/davidolusolaoluwasogo-dev/web_dev/blob/main/single-page_cv.html
